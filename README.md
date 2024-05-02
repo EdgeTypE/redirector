@@ -13,4 +13,4 @@ Simply share your redirected URL on the platform of your choice.
 - Linkedin
 - Mail
 
-[Example]((https://edgetype.github.io/redirector/?r=https://github.com/EdgeTypE/redirector/)) 
+[Example](https://edgetype.github.io/redirector/?r=https://github.com/EdgeTypE/redirector/)
